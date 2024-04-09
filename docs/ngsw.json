@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1712637729626,
-  "index": "/expense/index.html",
+  "timestamp": 1712638194454,
+  "index": "/expenses/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/expense/favicon.ico",
-        "/expense/index.html",
-        "/expense/main.14ec1131bb1cff4a.js",
-        "/expense/manifest.webmanifest",
-        "/expense/polyfills.82cf4d944d698269.js",
-        "/expense/runtime.3081a1d0a36046d0.js",
-        "/expense/styles.dfc9c5bd9e78f157.css"
+        "/expenses/favicon.ico",
+        "/expenses/index.html",
+        "/expenses/main.14ec1131bb1cff4a.js",
+        "/expenses/manifest.webmanifest",
+        "/expenses/polyfills.82cf4d944d698269.js",
+        "/expenses/runtime.3081a1d0a36046d0.js",
+        "/expenses/styles.dfc9c5bd9e78f157.css"
       ],
       "patterns": []
     },
@@ -29,43 +29,43 @@
         "ignoreVary": true
       },
       "urls": [
-        "/expense/assets/Logo.png",
-        "/expense/assets/exp.png",
-        "/expense/assets/icons/icon-128x128.png",
-        "/expense/assets/icons/icon-144x144.png",
-        "/expense/assets/icons/icon-152x152.png",
-        "/expense/assets/icons/icon-192x192.png",
-        "/expense/assets/icons/icon-384x384.png",
-        "/expense/assets/icons/icon-512x512.png",
-        "/expense/assets/icons/icon-72x72.png",
-        "/expense/assets/icons/icon-96x96.png",
-        "/expense/assets/inc.svg",
-        "/expense/assets/spending.png"
+        "/expenses/assets/Logo.png",
+        "/expenses/assets/exp.png",
+        "/expenses/assets/icons/icon-128x128.png",
+        "/expenses/assets/icons/icon-144x144.png",
+        "/expenses/assets/icons/icon-152x152.png",
+        "/expenses/assets/icons/icon-192x192.png",
+        "/expenses/assets/icons/icon-384x384.png",
+        "/expenses/assets/icons/icon-512x512.png",
+        "/expenses/assets/icons/icon-72x72.png",
+        "/expenses/assets/icons/icon-96x96.png",
+        "/expenses/assets/inc.svg",
+        "/expenses/assets/spending.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/expense/assets/Logo.png": "bbd8b6bf317d8a3fac80e3f64b96e47b9330ea36",
-    "/expense/assets/exp.png": "1b8fb1747de997dc8699466d3024bc00ef3e88ef",
-    "/expense/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/expense/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/expense/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/expense/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/expense/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/expense/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/expense/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/expense/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/expense/assets/inc.svg": "4fc86bb4392938e453bffc9ffb0ec212cace7384",
-    "/expense/assets/spending.png": "c7127139e06830258a7e2a462d7000abbf72570e",
-    "/expense/favicon.ico": "1b8fb1747de997dc8699466d3024bc00ef3e88ef",
-    "/expense/index.html": "b4e45b51c68ce44d129846f9283495485cb48b84",
-    "/expense/main.14ec1131bb1cff4a.js": "7cd04f8458ce7853b5fbea6c15f44e8193bf339b",
-    "/expense/manifest.webmanifest": "b64786035323602941bfceafd7d8749a6de660bb",
-    "/expense/polyfills.82cf4d944d698269.js": "2d2e59a4b43682dcfbf32173509385527584a9a0",
-    "/expense/runtime.3081a1d0a36046d0.js": "9bd422e97d59568a7c19773912f2170030fb9b43",
-    "/expense/styles.dfc9c5bd9e78f157.css": "fb5af883326dbc965c14c67adbb2e40520b8adce"
+    "/expenses/assets/Logo.png": "bbd8b6bf317d8a3fac80e3f64b96e47b9330ea36",
+    "/expenses/assets/exp.png": "1b8fb1747de997dc8699466d3024bc00ef3e88ef",
+    "/expenses/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/expenses/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/expenses/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/expenses/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/expenses/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/expenses/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/expenses/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/expenses/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/expenses/assets/inc.svg": "4fc86bb4392938e453bffc9ffb0ec212cace7384",
+    "/expenses/assets/spending.png": "c7127139e06830258a7e2a462d7000abbf72570e",
+    "/expenses/favicon.ico": "1b8fb1747de997dc8699466d3024bc00ef3e88ef",
+    "/expenses/index.html": "3f8a3fc3a33ef261275e5bba6a5349178b979864",
+    "/expenses/main.14ec1131bb1cff4a.js": "7cd04f8458ce7853b5fbea6c15f44e8193bf339b",
+    "/expenses/manifest.webmanifest": "b64786035323602941bfceafd7d8749a6de660bb",
+    "/expenses/polyfills.82cf4d944d698269.js": "2d2e59a4b43682dcfbf32173509385527584a9a0",
+    "/expenses/runtime.3081a1d0a36046d0.js": "9bd422e97d59568a7c19773912f2170030fb9b43",
+    "/expenses/styles.dfc9c5bd9e78f157.css": "fb5af883326dbc965c14c67adbb2e40520b8adce"
   },
   "navigationUrls": [
     {
